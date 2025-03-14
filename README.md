@@ -22,3 +22,6 @@ I'll create a Jupyter Notebook with the full implementation of a Decision Tree m
 ✅ Visualize the Decision Tree.
 
 ✅ Provide insights and analysis.
+
+#output
+![Image](https://github.com/user-attachments/assets/aedddb39-b909-4dcc-b86f-4d17acfc0cc4)
